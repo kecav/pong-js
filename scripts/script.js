@@ -39,7 +39,7 @@ const ball = {
 };
 const score = {
     color: "#fff",
-    maxScore: 0,
+    maxScore: 5,
     opponent: {
         value: 0,
         x: 20,
